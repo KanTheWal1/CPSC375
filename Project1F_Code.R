@@ -1,14 +1,11 @@
-# Ali Tahami
-# Kanwaljeet Ahluwalia
-# Professor P. Metkar
 # CPSC 375-01
-# November 5, 2022 
 # --------------------------------- Project 1 -------------------------------------
 # libraries Initialized: 
 library(ggplot2)
 library(modelr)
 library(class)
 library(tidyverse)
+
 # **************************** Part 1: Tidying tables *****************************
 # ---------------------------------------------------------------------------------
 
