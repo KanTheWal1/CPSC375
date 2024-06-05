@@ -2,6 +2,7 @@
 ## Data Science Using RStudio
 
 1)	Data preparation/wrangling to get all the data into one table that can be used for linear modeling:
+
   a)	reading the data files using read_csv()
   b)	Removing unneeded rows (e.g., countries like Brazil and India report Province_State-level data that is not needed as we are studying only country-level rates) and columns. 
   c)	tidying tables, as needed. For example, the vaccinations data is not tidy.
